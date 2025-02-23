@@ -78,8 +78,4 @@ Make sure to use the correct item IDs, like:
 
 ## 📝 Need More Slots?  
 
-The current cap is **250** recipe files. If you hit the limit and need more, just hop into the **JenkiMods Discord Server** and request an increase!  
-
----
-
-Happy crafting! 🎉  
+The current cap is **250** recipe files. If you hit the limit and need more, just hop into the **JenkiMods Discord Server** and request an increase!    
