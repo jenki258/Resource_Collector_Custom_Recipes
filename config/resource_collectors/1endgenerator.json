@@ -1,0 +1,6 @@
+{
+  "Input Core ID": "resource_collector:basic_end_core",
+  "Output Item ID": "resource_collector:end_core_shard",
+  "Time Needed to generate(In ticks)": 100,
+  "Items Give Count": 1
+}

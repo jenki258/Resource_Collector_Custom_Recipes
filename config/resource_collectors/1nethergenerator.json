@@ -1,0 +1,6 @@
+{
+  "Input Core ID": "resource_collector:basic_nether_core",
+  "Output Item ID": "resource_collector:nether_core_shard",
+  "Time Needed to generate(In ticks)": 100,
+  "Items Give Count": 1
+}
