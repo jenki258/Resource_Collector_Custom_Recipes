@@ -15,16 +15,28 @@ Welcome to the **Resource Collector Mod**! This guide will walk you through how 
    ```
 
 3. **Create a Recipe File**  
-   In the `resource_collectors` folder, create a new JSON file. Name it like this:  
+   In the `resource_collectors` folder, create a new JSON file. Name it like this:
+
+   For Basic Generator:
 
    ```
    1generator.json
    ```
 
+   For Nether Generator:
+   ```
+   1nethergenerator.json
+   ```
+
+   For End Generator:
+   ```
+   1endgenerator.json
+   ```
+
    📝 **Important:** Replace the `1` with any number you want, up to `250` — that’s the current max cap.  
    (If you need more, request it on the [JenkiMods Discord Server](https://discord.gg/bJWbUsWAWk)).  
 
-4. **Write the Recipe**  
+5. **Write the Recipe**  
    Open your newly created `.json` file and add this template:  
 
    ```json
